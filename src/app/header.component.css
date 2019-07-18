@@ -1,0 +1,17 @@
+ul li a {
+    color: black;
+}
+
+li button {
+    background-color: #ffcf59;
+}
+
+@media only screen and (max-width: 500px) {
+    .lined {
+        display: none !important;
+    }
+
+    ul li {
+        text-align: center !important;
+    }
+}
